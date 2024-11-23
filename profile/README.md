@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nimbus.zone" target="_blank" rel="noopener noreferrer">
-    <img width="160" height="160" src="https://raw.githubusercontent.com/nimbus-zone/nimbus/refs/heads/main/public/nimbus.svg" alt="Nimbus logo">
+    <img width="160" height="160" src="https://raw.githubusercontent.com/nimbus-town/nimbus/refs/heads/main/public/nimbus.svg" alt="Nimbus logo">
   </a>
 </p>
 
